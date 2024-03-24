@@ -1,5 +1,4 @@
-Hi, I am @Shin-Emon  
-I'm interested in Java, C++.  
-I like Java but recently I using C++.  
-I'm from Japan.  
-(I live in Japan.)  
+Hello, my name is Shin-Emon.
+I usually make apps in Java.
+Also I use PHP in my homepage!
+It's fun
