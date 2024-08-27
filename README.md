@@ -1,4 +1,2 @@
-Hello, my name is Shin-Emon.
-I usually make apps in Java.
-Also I use PHP in my homepage!
-It's fun
+I'm Shin-Emon, a Japanese Junior high school student.
+I usually use Java.
