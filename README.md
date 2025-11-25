@@ -1,2 +1,3 @@
-I'm Shin-Emon, a Japanese Junior high school student.
-I usually use Java.
+Hi, my name is Shin Emon.
+I'm 14 years old, and now I'm a student.
+I love Java and JavaScript.  
