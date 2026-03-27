@@ -1,3 +1,2 @@
-Hi, my name is Shin Emon.
-I'm 14 years old, and now I'm a student.
-I love Java and JavaScript.  
+Hi, I'm Shin-Emon, a Japanese high school student.
+I'm 15 years old. I mainly use Java, PHP, JavaScript and so on.
